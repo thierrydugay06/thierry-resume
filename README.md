@@ -2,7 +2,7 @@
 
 A personal resume portfolio website built with React, Vite, and Tailwind CSS.
 
-🔗 **Live Site:** [thierry-resume.netlify.app](https://thierry-resume.netlify.app)
+🔗 **Live Site:** [thierrysresume.netlify.app](https://thierrysresume.netlify.app)
 
 ## About
 
